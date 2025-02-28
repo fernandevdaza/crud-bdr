@@ -9,6 +9,8 @@ fastapi = {extras = ["standard"], version = "*"}
 uvicorn = "*"
 pymysql = "*"
 streamlit = "*"
+cryptography = "*"
+streamlit-extras = "*"
 
 [dev-packages]
 
